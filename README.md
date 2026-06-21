@@ -1,4 +1,5 @@
 # OBELISK
+`public release`
 
 A small sponge-based cryptosystem built on one 384-bit permutation: authenticated
 encryption, hashing, key derivation, key-wrapping and file encryption.
